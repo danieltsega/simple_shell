@@ -22,8 +22,8 @@ This is the sample of how the program works
 ```
 vagrant@ubuntu-focal:~$ ./hsh
 $ 
-$ echo 'ALX Simpe Shell Example' 
-ALX Simpe Shell Example
+$ echo 'ALX Simple Shell Example' 
+ALX Simple Shell Example
 $
 
 ```
