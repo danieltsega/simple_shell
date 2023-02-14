@@ -1,6 +1,6 @@
 # C-Simple Shell
 
-This Is a group project done while attending the **ALX-Full-Stack-Software-Engineering program**  In the aim of learing to build our own linux shell.
+This Is a group project done while attending the **ALX-Full-Stack-Software-Engineering program**  In the aim of learning to build our own linux shell.
 
 ## Overview
 
